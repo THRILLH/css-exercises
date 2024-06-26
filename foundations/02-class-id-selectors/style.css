@@ -1,5 +1,6 @@
-p {
-   background-color: #f08080; font-family: Verdana, "DejaVu Sans", sans-serif;
+.odd {
+   background-color: #f08080; 
+   font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .cooler {
