@@ -14,8 +14,8 @@ body {
 .title {
   background: #e3f4ff;
   padding: 10px;
-  margin: 10px;
   margin-top: 20px;
+  margin-bottom: auto;
   font-size: larger;
 }
 
@@ -24,13 +24,14 @@ body {
   padding: 10px;
   padding-top: 20px;
   padding-bottom: 20px;
-  margin: 10px;
+  margin-top: 8px;
+  margin-bottom: auto;
 }
 
 .button-container {
   background: #e3f4ff;
   padding: 10px;
-  margin: 10px;
+  margin-top: 8px;
   text-align: center;
 }
 
