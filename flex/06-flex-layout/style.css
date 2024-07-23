@@ -43,6 +43,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 10px;
 }
 
 input {
@@ -56,4 +57,5 @@ input {
   display: flex;
   justify-content: space-between;
   margin-top: auto;
+  background-color: rgb(224, 224, 224);
 }
