@@ -16,7 +16,8 @@ img {
 .plants {
   display: flex;
   justify-content: space-evenly;
-  margin: 16px;
+  margin-top: 32px;
+  gap: 52px;
 }
 
 .plant-box {
