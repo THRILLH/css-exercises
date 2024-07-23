@@ -50,6 +50,12 @@ body {
 
 ul {
   list-style-type: none;
+  padding: 16px;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 16px;
 }
 
 a {
